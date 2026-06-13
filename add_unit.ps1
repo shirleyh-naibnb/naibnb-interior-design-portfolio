@@ -49,8 +49,8 @@ $slide.Add("      <div class=${q}photo-area${q}><div class=${q}carousel${q} id=$
 $slide.Add("      <div class=${q}car-track${q}>")
 foreach ($cl in $carLines) { $slide.Add($cl) }
 $slide.Add("    </div>")
-$slide.Add("      <button class=${q}car-btn car-prev${q} onclick=${q}carPrev('car11')${q}>&#8592;</button>")
-$slide.Add("      <button class=${q}car-btn car-next${q} onclick=${q}carNext('car11')${q}>&#8594;</button>")
+$slide.Add("      <button class=${q}car-btn car-prev${q} onclick=${q}carNav('car11',-1)${q}>&#8592;</button>")
+$slide.Add("      <button class=${q}car-btn car-next${q} onclick=${q}carNav('car11',1)${q}>&#8594;</button>")
 $slide.Add("        $dotsHtml")
 $slide.Add("        <div class=${q}car-counter${q} id=${q}car11-counter${q}>1 / $totalPhotos</div>")
 $slide.Add("      </div>")
