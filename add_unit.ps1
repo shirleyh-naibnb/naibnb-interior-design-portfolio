@@ -15,7 +15,7 @@ $roomLabels = @(
     "Tatami Area","Zen Garden","Tatami Area","Tatami Area","Tatami Area",
     "Tatami Area","Master Bedroom","Master Bedroom","Master Bedroom","Master Bedroom",
     "Master Bedroom","Master Bedroom","Bedroom 2","Bedroom 2","Bedroom 2",
-    "Bedroom 2","Bathroom","Living Room Bathroom","Master Bedroom Bathroom"
+    "Bedroom 2","Bedroom 2","Living Room Bathroom","Master Bedroom Bathroom"
 )
 
 Write-Host "Reading UTF-8..."
