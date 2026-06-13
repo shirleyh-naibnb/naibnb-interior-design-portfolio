@@ -7,15 +7,15 @@ $htmlPath = "C:\Users\malay\Documents\naibnb-portfolio\index.html"
 $totalPhotos = 44
 
 $roomLabels = @(
-    "Living Room","Living Room","Master Bedroom","Bedroom 2","Kitchen",
-    "Living Room","Living Detail","Dining Area","Dining Area","Living Room",
-    "Living Room","Master Bedroom","Master Bedroom","Master Bedroom","Master Bedroom",
-    "Master Bathroom","Master Bathroom","Bedroom 2","Bedroom 2","Bedroom 2",
-    "Bedroom 2","Bedroom 2","Bedroom 2 Bathroom","Bedroom 2 Bathroom","Kitchen",
-    "Kitchen","Kitchen","Kitchen","Balcony","View",
-    "Living Room","Dining Area","Living Room","Living Detail","Living Room",
-    "Foyer","Foyer","Living Room","Master Bedroom","Kitchen",
-    "Bathroom","Bathroom","Living Room Bathroom","Master Bedroom Bathroom"
+    "Living Room","Tea Corner","Tatami Area","Bedroom 2","Tea Corner",
+    "Living Room","Living Room","Living Room","Living Room","Living Room",
+    "Living Room","Living Room","Living Room","Kitchen","Interior Detail",
+    "Tatami Area","Tatami Area","Tea Corner","Tatami Area","Tea Corner",
+    "Tea Corner","Tatami Area","Tatami Area","Tatami Area","City View",
+    "Tatami Area","Zen Garden","Tatami Area","Tatami Area","Tatami Area",
+    "Tatami Area","Master Bedroom","Master Bedroom","Master Bedroom","Master Bedroom",
+    "Master Bedroom","Master Bedroom","Bedroom 2","Bedroom 2","Bedroom 2",
+    "Bedroom 2","Bathroom","Living Room Bathroom","Master Bedroom Bathroom"
 )
 
 Write-Host "Reading UTF-8..."
